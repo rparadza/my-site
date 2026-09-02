@@ -1,0 +1,51 @@
+---
+title: "Early Life"
+subtitle: "From the Transkei to the law courts of Johannesburg"
+---
+
+## Childhood in the Transkei
+
+Nelson Rolihlahla Mandela was born on 18 July 1918 in the village of Mvezo in
+the Transkei region of what is now the Eastern Cape, South Africa. He was a
+member of the Thembu royal family; his father, Gadla Henry Mphakanyiswa, was
+a local chief and counselor to the Thembu king. The name "Rolihlahla"
+colloquially means "troublemaker" — a name Mandela later joked was
+prophetic.
+
+After his father's death when Mandela was around nine years old, he became a
+ward of Jongintaba Dalindyebo, the acting regent of the Thembu people, who
+raised him alongside his own children and groomed him for a role advising
+the royal house.
+
+## Education
+
+Mandela attended a local mission school, where a teacher gave him the English
+name "Nelson," and later Clarkebury Boarding Institute and Healdtown, a
+Methodist secondary school. He went on to study at the University of Fort
+Hare, one of the few institutions of higher learning open to Black South
+Africans at the time, but was expelled for joining a student protest.
+
+He completed his BA degree by correspondence and moved to Johannesburg,
+where he studied law at the University of the Witwatersrand. There he met
+many future leaders of the anti-apartheid movement across racial lines,
+shaping the political outlook that would define the rest of his life.
+
+## Entering Politics
+
+In Johannesburg, Mandela worked as a law clerk and became increasingly
+involved in anti-colonial and African nationalist politics. In 1943 he
+joined the African National Congress (ANC), and in 1944 he helped found the
+ANC Youth League alongside Oliver Tambo, Walter Sisulu, and others, pushing
+the ANC toward more assertive, mass-based action against racial
+discrimination.
+
+In 1952, Mandela and Tambo opened South Africa's first Black-owned law firm,
+Mandela & Tambo, providing free or low-cost legal counsel to Black South
+Africans affected by apartheid laws — work that deepened his understanding
+of the system he would spend the rest of his life fighting.
+
+::: {.quote-block}
+"Education is the most powerful weapon which you can use to change the world."
+:::
+
+[Continue to: Struggle Against Apartheid →](struggle.qmd)

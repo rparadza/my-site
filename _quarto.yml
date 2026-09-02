@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Nelson Mandela"
+  description: "A multipage site exploring the life and legacy of Nelson Mandela"
+  navbar:
+    background: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - href: early-life.qmd
+        text: Early Life
+      - href: struggle.qmd
+        text: Struggle Against Apartheid
+      - href: presidency.qmd
+        text: Presidency
+      - href: legacy.qmd
+        text: Legacy
+      - href: timeline.qmd
+        text: Timeline
+    right:
+      - icon: github
+        href: https://github.com
+  page-footer:
+    left: "© 2026 · A tribute site built with Quarto"
+    right: "Built for educational purposes"
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-location: right
+    grid:
+      body-width: 900px

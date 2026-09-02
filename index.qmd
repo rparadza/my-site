@@ -1,0 +1,43 @@
+---
+title: "Nelson Mandela"
+subtitle: "Freedom Fighter, Prisoner, President, Peacemaker"
+page-layout: article
+---
+
+::: {.hero}
+# Nelson Rolihlahla Mandela
+<p class="lead">1918 – 2013</p>
+:::
+
+::: {.quote-block}
+"It always seems impossible until it's done."
+:::
+
+Nelson Mandela was a South African anti-apartheid revolutionary, political
+prisoner, and statesman who served as President of South Africa from 1994 to
+1999 — the country's first head of state elected in a fully representative
+democratic election. Before entering politics, Mandela trained as a lawyer
+and became a leading figure in the African National Congress (ANC), where he
+helped organize resistance to the apartheid regime's system of institutional
+racial segregation.
+
+Convicted of sabotage and other charges in 1964, Mandela spent 27 years in
+prison — most of it on Robben Island — before his release in 1990 amid
+growing international pressure and negotiations to end apartheid. In 1993 he
+and then-President F. W. de Klerk were jointly awarded the Nobel Peace Prize
+for their work toward dismantling apartheid and laying the foundations for a
+democratic South Africa.
+
+As president, Mandela prioritized national reconciliation over retribution,
+famously establishing the Truth and Reconciliation Commission to address the
+crimes of the apartheid era. He retired from public life in 1999 but remained
+a global advocate for peace, human rights, and social justice until his death
+in 2013.
+
+## Explore this site
+
+- **[Early Life](early-life.qmd)** — Mandela's childhood, education, and path into politics.
+- **[Struggle Against Apartheid](struggle.qmd)** — The ANC, the armed resistance, and 27 years in prison.
+- **[Presidency](presidency.qmd)** — Leading South Africa's transition to democracy.
+- **[Legacy](legacy.qmd)** — Mandela's global impact and enduring influence.
+- **[Timeline](timeline.qmd)** — Key dates across his life, at a glance.

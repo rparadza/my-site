@@ -1,0 +1,31 @@
+---
+title: "Timeline"
+subtitle: "Key dates in the life of Nelson Mandela"
+toc: false
+---
+
+| Year | Event |
+|------|-------|
+| 1918 | Born on 18 July in Mvezo, Transkei, South Africa. |
+| 1943 | Joins the African National Congress (ANC). |
+| 1944 | Co-founds the ANC Youth League. |
+| 1952 | Leads the Defiance Campaign; opens Mandela & Tambo law firm. |
+| 1956 | Arrested and charged in the Treason Trial (acquitted in 1961). |
+| 1960 | Sharpeville Massacre; the ANC is banned. |
+| 1961 | Co-founds Umkhonto we Sizwe, the ANC's armed wing. |
+| 1962 | Arrested and sentenced to five years' imprisonment. |
+| 1964 | Sentenced to life imprisonment at the Rivonia Trial. |
+| 1964–1982 | Imprisoned on Robben Island. |
+| 1982–1988 | Held at Pollsmoor Prison. |
+| 1988–1990 | Held at Victor Verster Prison. |
+| 1990 | Released from prison on 11 February. |
+| 1991 | Elected President of the ANC. |
+| 1993 | Awarded the Nobel Peace Prize with F. W. de Klerk. |
+| 1994 | Elected South Africa's first Black president on 27 April. |
+| 1995 | South Africa hosts and wins the Rugby World Cup. |
+| 1996 | New South African constitution adopted. |
+| 1999 | Steps down as president; succeeded by Thabo Mbeki. |
+| 2009 | UN declares 18 July "Nelson Mandela International Day." |
+| 2013 | Dies on 5 December in Johannesburg, aged 95. |
+
+[Back to Home](index.qmd)

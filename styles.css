@@ -1,0 +1,46 @@
+/* Nelson Mandela site styling */
+
+:root {
+  --mandela-green: #007a4d;
+  --mandela-gold: #ffb612;
+  --mandela-black: #1a1a1a;
+}
+
+.navbar {
+  border-bottom: 3px solid var(--mandela-gold);
+}
+
+h1.title {
+  color: var(--mandela-green);
+}
+
+blockquote {
+  border-left: 4px solid var(--mandela-gold);
+  padding-left: 1rem;
+  font-style: italic;
+  color: #444;
+}
+
+.quote-block {
+  background-color: #f7f5ef;
+  border-left: 4px solid var(--mandela-green);
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+.hero {
+  text-align: center;
+  padding: 2rem 0 1rem 0;
+}
+
+.hero h1 {
+  font-size: 2.6rem;
+  color: var(--mandela-green);
+  border-bottom: none;
+}
+
+.hero p.lead {
+  font-size: 1.2rem;
+  color: #555;
+}

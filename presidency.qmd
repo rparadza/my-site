@@ -1,0 +1,61 @@
+---
+title: "Presidency"
+subtitle: "Building a democratic South Africa"
+---
+
+## Release and Negotiation
+
+On 11 February 1990, Mandela walked free after 27 years in prison, greeted
+by jubilant crowds and global media attention. President F. W. de Klerk had
+lifted the ban on the ANC and other liberation movements shortly before,
+opening the door to negotiations. Mandela became president of the ANC in
+1991 and, alongside de Klerk, led years of difficult multi-party talks aimed
+at ending apartheid and drafting a new, democratic constitution — negotiations
+repeatedly threatened by political violence and mistrust on all sides.
+
+In 1993, Mandela and de Klerk were jointly awarded the **Nobel Peace Prize**
+"for their work for the peaceful termination of the apartheid regime, and
+for laying the foundations for a new democratic South Africa."
+
+## The 1994 Election
+
+On 27 April 1994, South Africa held its first fully democratic election, in
+which citizens of all races could vote. The ANC won a decisive majority, and
+on 10 May 1994, Nelson Mandela was inaugurated as **South Africa's first
+Black president**, with de Klerk serving as one of his deputy presidents in
+a government of national unity.
+
+::: {.quote-block}
+"Never, never, and never again shall it be that this beautiful land will
+again experience the oppression of one by another."
+:::
+
+## Reconciliation Over Retribution
+
+Rather than pursue retribution against the architects and beneficiaries of
+apartheid, Mandela championed a policy of national reconciliation. His
+government established the **Truth and Reconciliation Commission**, chaired
+by Archbishop Desmond Tutu, to investigate human rights abuses committed
+during apartheid and offer conditional amnesty in exchange for full
+disclosure — an approach aimed at healing rather than punishing a divided
+nation.
+
+Mandela also used symbolic gestures to unify the country, most famously
+embracing the previously white-dominated Springbok rugby team during South
+Africa's hosting and winning of the 1995 Rugby World Cup, an episode that
+became emblematic of his approach to nation-building.
+
+## Governance and Policy
+
+As president, Mandela's government worked to redress the material
+inequalities left by apartheid through programs such as the Reconstruction
+and Development Programme, expanding access to housing, electricity, water,
+and healthcare for Black South Africans. He also oversaw the adoption of a
+new, progressive constitution in 1996, one of the first in the world to
+explicitly prohibit discrimination on the basis of sexual orientation.
+
+True to earlier promises, Mandela chose not to seek a second term, stepping
+down in 1999 and handing power to his deputy, Thabo Mbeki — a peaceful
+transition that reinforced South Africa's young democratic institutions.
+
+[Continue to: Legacy →](legacy.qmd)

@@ -1,0 +1,69 @@
+---
+title: "Struggle Against Apartheid"
+subtitle: "From peaceful protest to armed resistance to Robben Island"
+---
+
+## Apartheid and the Defiance Campaign
+
+When the National Party came to power in 1948, it formalized racial
+segregation into the system known as apartheid. Mandela became a central
+organizer of the ANC's 1952 Defiance Campaign, a mass civil disobedience
+effort against unjust laws, which established him as a prominent national
+figure — and led to his first serious clashes with the law, including a
+suspended sentence and banning orders that restricted his movement and
+associations.
+
+## The Treason Trial
+
+In 1956, Mandela and 155 other activists were arrested and charged with
+treason for their political activities. The Treason Trial dragged on for
+years before all defendants were acquitted in 1961, but it cemented
+Mandela's role as a leading voice of the liberation movement and exposed him
+to activists across the ideological spectrum.
+
+## Sharpeville and the Turn to Armed Struggle
+
+The 1960 Sharpeville Massacre, in which police killed 69 unarmed protesters,
+was a turning point. The government banned the ANC, forcing the movement
+underground. Concluding that non-violent protest alone could not overturn
+apartheid, Mandela helped found **Umkhonto we Sizwe** ("Spear of the
+Nation"), the armed wing of the ANC, in 1961, and became its first
+commander-in-chief. The organization pursued a campaign of sabotage against
+government and economic infrastructure while explicitly seeking to avoid
+loss of life.
+
+## Arrest and the Rivonia Trial
+
+Mandela was arrested in 1962 and initially sentenced to five years for
+incitement and leaving the country without a permit. In 1963, while already
+imprisoned, he and several other ANC leaders were charged with sabotage and
+conspiracy in what became known as the **Rivonia Trial**. Facing a possible
+death sentence, Mandela used the dock as a platform, delivering his famous
+"I Am Prepared to Die" speech from the dock in April 1964.
+
+::: {.quote-block}
+"I have cherished the ideal of a democratic and free society in which all
+persons live together in harmony and with equal opportunities. It is an
+ideal which I hope to live for and to achieve. But if needs be, it is an
+ideal for which I am prepared to die."
+:::
+
+Mandela and several co-defendants were convicted and sentenced to life
+imprisonment rather than death.
+
+## Twenty-Seven Years in Prison
+
+Mandela spent the first 18 years of his sentence on **Robben Island**,
+performing hard labor in a lime quarry, before being transferred to Pollsmoor
+Prison and later Victor Verster Prison. Despite the isolation, he continued
+to study, mentor fellow prisoners, and — through smuggled communications and
+clandestine negotiations — remained the symbolic center of the anti-apartheid
+movement.
+
+International pressure mounted throughout the 1980s: economic sanctions,
+global divestment campaigns, and a worldwide "Free Mandela" movement kept his
+name and cause visible even as he remained out of public view. By the late
+1980s, secret talks had begun between Mandela and the apartheid government
+about a negotiated transition.
+
+[Continue to: Presidency →](presidency.qmd)
